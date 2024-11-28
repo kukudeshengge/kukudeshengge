@@ -15,7 +15,3 @@ Hi 👋! My name is Sheng
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kukudeshengge&limit=5&theme=discord_old_blurple&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=kukudeshengge&icon=5&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
